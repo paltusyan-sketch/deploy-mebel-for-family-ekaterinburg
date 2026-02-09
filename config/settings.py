@@ -29,7 +29,7 @@ if os.path.exists('C:\\Users\\'): # Если есть папка Users, знач
 else:
     DEBUG = False
 
-ALLOWED_HOSTS = ['93.189.231.10', 'mebel-for-family.ru', '127.0.0.1', 'localhost',]
+ALLOWED_HOSTS = ['93.189.231.10', 'mebel-for-family.ru', '127.0.0.1', 'localhost', '85.198.68.16']
 
 
 # Application definition
